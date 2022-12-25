@@ -16,7 +16,7 @@ public class Transport {
         }
 
         if (model != null || model.isEmpty()){
-            this.model = "M3";
+            this.model = "M4";
         }else{
             this.model = model;
         }
